@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "sku": "A100",
+      "name": "Sink Mona",
+      "category": [
+        "bathroom",
+        "sinks"
+      ],
+      "variants": [
+        {
+          "color": "white",
+          "price": 299
+        },
+        {
+          "color": "black",
+          "price": 319
+        }
+      ]
+    },
+    {
+      "sku": "A101",
+      "name": "Faucet Loop",
+      "category": [
+        "bathroom",
+        "faucets"
+      ],
+      "variants": []
+    }
+  ]
+}

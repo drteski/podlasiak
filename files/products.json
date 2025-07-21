@@ -1,0 +1,18 @@
+[
+  {
+    "sku": "P001",
+    "name": "Bathtub Bella",
+    "price": 899,
+    "link": "https://example.com/bella",
+    "imageLink": "https://example.com/img/bella.jpg",
+    "availability": "in_stock"
+  },
+  {
+    "sku": "P002",
+    "name": "Shower Set Gold",
+    "price": 499,
+    "link": "https://example.com/gold",
+    "imageLink": "https://example.com/img/gold.jpg",
+    "availability": "out_of_stock"
+  }
+]

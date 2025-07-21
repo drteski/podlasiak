@@ -1,0 +1,12 @@
+[
+  {
+    "sku": "AA123",
+    "name": "Modern Sink",
+    "price": 159.99
+  },
+  {
+    "sku": "DD101",
+    "name": "Wall Mirror",
+    "price": 199.0
+  }
+]

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <sku>AA123</sku>
+    <name>Modern Sink</name>
+    <price>149.99</price>
+    <currency>PLN</currency>
+    <availability>in_stock</availability>
+  </product>
+  <product>
+    <sku>BB456</sku>
+    <name>Vintage Faucet</name>
+    <price>39.99</price>
+    <currency>PLN</currency>
+    <availability>out_of_stock</availability>
+  </product>
+  <product>
+    <sku>CC789</sku>
+    <name>Shower Head Deluxe</name>
+    <price>89.99</price>
+    <currency>PLN</currency>
+    <availability>in_stock</availability>
+  </product>
+</products>
